@@ -1,4 +1,4 @@
-
+print("esta es una modificación")
 print("FORMA 1")
 print("¿Digite un texto o palabra?")
 nombre = input()
